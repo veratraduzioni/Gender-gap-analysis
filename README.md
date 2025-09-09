@@ -1,2 +1,7 @@
-All the files of the analysis of the dataset which was part of the 2019 programme of the Department of Political Science at the University of Gothenburg.
-<br> It aimed to analyze gender representation in the choice of diplomats to send for diplomatic missions.
+# Files description
+This dataset was part of the 2019 programme of the Department of Political Science at the University of Gothenburg.
+<br>It aimed to analyze gender representation in the choice of diplomats to send for diplomatic missions.
+- <b>PDF file</b>: contains the SQL code (database creation and queries) and the screenshot of the results of my queries
+- <b>.txt file</b>: contains the whole SQL code without the results of the queries
+- <b>Report file</b>: it's the Canva presentation with the workflow I followed
+
